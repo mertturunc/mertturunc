@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align="left" height="200" src="https://media.giphy.com/media/9zXN5MMd765MsF7K7o/giphy.gif"/>
 
-<!--
-**mertturunc/mertturunc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```diff
+hi, im mert
 
-Here are some ideas to get you started:
+@@jack of all trades@@
++ living in istanbul, turkey.
+- 25 years old
+! geomatics engineer, mini-developer and avg ferrari enjoyer
+# 📖 data viz, cartography
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[comment]: <> (took it from jewdew's bio)
