@@ -4,10 +4,6 @@
 hi, i'm mert
 
 @@jack of all trades@@
-+ living in istanbul, turkey.
-- 28 years old
-! geomatics engineer, mini-developer
-# 📖 data viz, cartography
 ```
 
 [comment]: <> (took it from jewdew's bio)
