@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://media.giphy.com/media/9zXN5MMd765MsF7K7o/giphy.gif"/>
+<img align="left" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanlpamhpZ3Rpb2lveXFmc2ZrbHJuOXdpajZ6bTZia2hzeDczOTdtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ulAhwtMCXWgTZHi81H/giphy.gif"/>
 
 ```diff
 hi, i'm mert
